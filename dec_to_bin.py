@@ -22,4 +22,5 @@ if (prvni_znak == "+" or prvni_znak.isdigit()) and ostatni_znaky.isdigit():
     
 else: 
     print ("Neplatný vstup. Zadej prosím celé kladné číslo.")
+
 print()
